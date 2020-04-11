@@ -17932,7 +17932,7 @@ a.text-dark:focus {
     background: {{ site.color }};
     min-height: 4rem;
     margin: 0;
-    z-index: 32
+    z-index: 1500;
 }
 
 @media(min-width:768px) {
