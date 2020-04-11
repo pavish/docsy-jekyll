@@ -5882,14 +5882,14 @@ input[type=button].btn-block {
 
 .badge {
     display: inline-block;
-    padding: .25em .4em;
+    padding: 0.45em .7em;
     font-size: 75%;
     font-weight: 700;
     line-height: 1;
     text-align: center;
     white-space: nowrap;
     vertical-align: baseline;
-    border-radius: .25rem;
+    border-radius: 0.16rem;
     margin-right: 3px;
     margin-bottom: 10px;
 }

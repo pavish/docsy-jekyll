@@ -26,20 +26,19 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/docsy-jekyll" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://vsoch.github.io" # the base hostname & protocol for your site
+url: "https://pavish.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/docsy-jekyll"
-github_user: "vsoch"
+repo: "https://github.com/pavish/docsy-jekyll"
+github_user: "pavish"
 github_repo: "docsy-jekyll"
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
-dockerhub: vanessa
+twitter: pavishkumar.r
+linkedin: pavishkumar
 
 # Should there be feedback buttons at the bottom of pages?
-feedback: true
+# feedback: true
 
 # Link to a privacy policy in footer, uncomment and define if wanted
 # privacy: https://domain.com/privacy
@@ -49,8 +48,7 @@ feedback: true
 # If commented, will use material hat theme
 # logo: "assets/img/logo/SRCC-square-red.png"
 logo_pixels: 34
-color: "#30638e"
-# color: "#8c1515" # primary color for header, buttons
+color: "#3d4251"
 
 # Build settings
 markdown: kramdown
