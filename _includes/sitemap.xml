@@ -10,7 +10,7 @@
     {% if group.data %}
     {% for section in group.data %}
     <url>
-        <loc>{{ site.baseurl }}{{ section.url }}/</loc>
+        <loc>{{ site.baseurl }}/{{ section.url }}/</loc>
         <lastmod>{{ "now" | date: "%Y-%m-%d" }}</lastmod>
         <changefreq>daily</changefreq>
     </url>
