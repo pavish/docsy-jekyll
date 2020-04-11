@@ -18063,7 +18063,8 @@ html body .md-typeset .headerlink {
 }
 
 .td-sidebar-nav__section {
-    padding-left: 0
+    padding-left: 0;
+    margin-bottom: 0.4rem;
 }
 
 .td-sidebar-nav__section li {
